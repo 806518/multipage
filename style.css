@@ -1,0 +1,13 @@
+body
+    {
+        background-image: "https://wallpaperaccess.com/full/3845801.jpg";
+    }
+p
+    {
+        color:blue
+    }
+.paragraph
+    {
+        font-family: monospace;
+        font-size: large;
+    }
